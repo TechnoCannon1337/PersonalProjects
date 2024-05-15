@@ -21,6 +21,8 @@ Official WordPress Plugin
 https://wordpress.org/plugins/pyplugger-for-pyscript/
 
 # SOCIAL MEDIA LINKS
+Twitter Link:
+http://TechnoCannon.com/twitter
 
 GitHub Link:
 http://TechnoCannon.com/github
