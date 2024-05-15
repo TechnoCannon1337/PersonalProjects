@@ -1,11 +1,8 @@
 # TECHNO CANNON, SOFTWARE DEVELOPMENT
+# Personal Projects & Work in Progress
+## Hello World!
 
-# Public Service
-Programs for Public Consumption
-
-# Hello World!
-
-## This is a public repository for programs I've worked on and for projects I'm working on presently.
+## This is a public repository for personal projects I've worked on and for projects I'm working on presently.
 
 ## Techno Cannon, MPA
 
