@@ -5,7 +5,7 @@ Programs for Public Consumption
 
 # Hello World!
 
-## This is a public repository for algorithms I've worked on and for algorithms I'm working on presently.
+## This is a public repository for programs I've worked on and for projects I'm working on presently.
 
 ## Techno Cannon, MPA
 
